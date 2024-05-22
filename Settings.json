@@ -1,0 +1,8 @@
+{
+	"ship speed": 8,
+	"ship size": 8,
+	"aliens speed": 5,
+	"aliens size": 8,
+	"bullet speed": 10,
+	"bullet size": 6
+}
